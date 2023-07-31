@@ -1,0 +1,16 @@
+input{
+    outline: none;
+}
+.updateBtn:hover{
+    color: brown;
+}
+body{
+    background-color: burlywood;
+}
+.home:hover{
+    border-bottom: 3px solid brown;
+}
+#inp{
+    outline: none !important;
+}
+
